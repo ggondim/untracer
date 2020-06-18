@@ -1,0 +1,20 @@
+{
+  "name": "untracer",
+  "version": "0.1.0",
+  "description": "A tracer library to help you trace method chains and its code steps.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggondim/untracer.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Gustavo Gondim",
+    "url": "https://github.com/ggondim"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ggondim/untracer/issues"
+  },
+  "homepage": "https://github.com/ggondim/untracer#readme"
+}
