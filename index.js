@@ -4,9 +4,11 @@ class Tracer {
    * @param {*} [{
    *     log = console.log,
    *     silent = false,
+   *     formatter = JSON.stringify,
    *   }={}] options
    * @param {Function?} [options.log=console.log] The function to be used as the log method when dumping tracings. 
    * @param {boolean?} [options.silent=false] Determines if dumps should log tracings or not. True means that it will not log.
+   * 
    * @memberof Tracer
    */
   constructor({
