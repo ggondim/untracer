@@ -1,6 +1,6 @@
 {
   "name": "untracer",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A tracer library to help you trace method chains and its code steps.",
   "main": "index.js",
   "repository": {
